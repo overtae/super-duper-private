@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/super-duper-private/static/css/main.073c9b0a.css",
+    "main.js": "/super-duper-private/static/js/main.43f8fb5d.js",
+    "index.html": "/super-duper-private/index.html",
+    "main.073c9b0a.css.map": "/super-duper-private/static/css/main.073c9b0a.css.map",
+    "main.43f8fb5d.js.map": "/super-duper-private/static/js/main.43f8fb5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.43f8fb5d.js"
+  ]
+}
